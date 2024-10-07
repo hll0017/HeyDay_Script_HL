@@ -13,4 +13,3 @@ while true ; do
 		echo "Hey $name! Happy Hey Day, an Auburn tradition since 1947"
 	fi
 done
-
