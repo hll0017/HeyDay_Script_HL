@@ -2,7 +2,7 @@
 Hey! This script will greet the user (and their friends)!
 
 ## What is Hey Day?  
-HeyDay is a tradition that started in 1947 at Auburn. You can go grab a nametag/button on the Halye concourse and say hi to some new people!  
+HeyDay is a tradition that started in 1947 at Auburn. You can go grab a nametag/button on the Haley concourse and say hi to some new people!  
 For more information check out http://sga.auburn.edu/hey-day/
 
 ## Functionality in this Script  
