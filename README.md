@@ -16,7 +16,7 @@ while true; do
 done
 ```
 
-This wil create an infinite loop unless another condition is used.
+This wil create an infinite loop unless another conditional is used.
 
 ### If statement  
 An if statement is used to exit the script and prevent an infinite loop.
