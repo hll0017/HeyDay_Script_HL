@@ -2,7 +2,7 @@
 
 #repeat this loop indefinitely
 while true ; do
-#output text and store user input in the variable name	
+#output text and store user input in the variable name
  	printf "Please enter your name for a special message (enter Bye to quit) : "
 	read name
 #test whether the user inputed a name or "Bye" to exit the script
